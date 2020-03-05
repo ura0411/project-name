@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"path": "goodview"
+		},
+		{
+			"path": "app"
+		},
+		{
+			"path": "bin"
+		},
+		{
+			"path": "config"
+		},
+		{
+			"path": "db"
+		},
+		{
+			"path": "lib"
+		},
+		{
+			"path": "log"
+		},
+		{
+			"path": "node_modules"
+		},
+		{
+			"path": "public"
+		},
+		{
+			"path": "storage"
+		},
+		{
+			"path": "test"
+		},
+		{
+			"path": "tmp"
+		},
+		{
+			"path": "vendor"
+		}
+	],
+	"settings": {}
+}
